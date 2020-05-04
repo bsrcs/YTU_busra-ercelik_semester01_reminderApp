@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ReminderApp</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="title">Title</string>
+    <string name="alarm">Alarm</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="add_alarm">Add alarm</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="new_user_click_here_to_register">New User, Click here to register</string>
+</resources>

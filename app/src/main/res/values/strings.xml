@@ -4,6 +4,7 @@
     <string name="cancel">Cancel</string>
     <string name="title">Title</string>
     <string name="alarm">Alarm</string>
+    <string name="add_btn">+</string>
     <string name="date">Date</string>
     <string name="time">Time</string>
     <string name="add_alarm">Add alarm</string>
@@ -11,4 +12,12 @@
     <string name="password">Password</string>
     <string name="login">Login</string>
     <string name="new_user_click_here_to_register">New User, Click here to register</string>
+    <string name="create_new_reminder">Create New Reminder</string>
+    <string name="frequency_of_reminder">Frequency of reminder:</string>
+    <string name="add_your_notes_here">Add your notes here..</string>
+    <string name="selected_time">Selected time:</string>
+    <string name="selected_date">Selected date:</string>
+    <string name="notes">Notes</string>
+    <string name="meeting">Meeting..</string>
+    <string name="description">Description</string>
 </resources>
